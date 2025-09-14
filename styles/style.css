@@ -7,3 +7,18 @@
   font-family: "Poppins", sans-serif;
 }
 
+:root {
+  --Theme-Color: #e02c6d;
+  --Theme-Secondary-Color: #0a0826;
+  --Orange-Color: #fb8200;
+  --White-Color: #ffffff;
+  --Text-Primary-Color: #3a3a3a;
+  --Text-Title-Color: #18191f;
+  --Text-Sub-Title-Color: rgba(0, 0, 0, 0.87);
+  --Text-Description-Color: #787885;
+}
+
+/* shared styles */
+
+.text-primary {
+}
